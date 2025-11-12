@@ -30,7 +30,7 @@
 ## Setup & Deployment
 1. Clone the repository (after creating your shared GitHub repo):
    ```bash
-   git clone https://github.com/<your-org>/egrocery.git
+   git clone https://github.com/1katuramu/eGrocery.git
    ```
 2. Move the project into your Apache web root (e.g., `htdocs`).
 3. Import `shop_db.sql` into MySQL (phpMyAdmin or CLI) and configure credentials in `backend/config.php`.
